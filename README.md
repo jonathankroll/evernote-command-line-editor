@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/hpoydar/evernote-editor.png?branch=master)](https://travis-ci.org/hpoydar/evernote-editor)
 
-# Evernote Editor
+#Evernote Editor
 
 Simple gem that provides command line creation and editing of Evernote notes.
 Uses your favorite editor and Markdown formatting.
